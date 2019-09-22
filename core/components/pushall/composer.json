@@ -1,0 +1,13 @@
+{
+    "name": "docentbf/pushall",
+    "require": {
+        "platx/pushall": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "DocentBF",
+            "email": "docentbf@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
